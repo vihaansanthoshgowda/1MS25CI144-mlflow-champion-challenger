@@ -1,0 +1,10 @@
+{
+  "run_name": "B_sentiment_bert-sst2",
+  "hf_model_id": "textattack/bert-base-uncased-SST-2",
+  "accuracy": 0.95,
+  "macro_f1": 0.9497,
+  "precision_macro": 0.9505,
+  "recall_macro": 0.9491,
+  "total_inference_s": 8.7203,
+  "avg_latency_ms": 43.6014
+}

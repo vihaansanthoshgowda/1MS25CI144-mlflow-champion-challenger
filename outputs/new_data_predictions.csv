@@ -1,0 +1,9 @@
+model_version,alias,text,label,score
+1,champion,The hackathon was a fantastic experience and our team learned so much.,POSITIVE,0.9991
+1,champion,My order arrived broken and the seller refused to give a refund.,NEGATIVE,0.9981
+1,champion,The sunset at the beach yesterday was absolutely breathtaking.,POSITIVE,0.9996
+1,champion,The power cut lasted the whole night and we could not study at all.,NEGATIVE,0.9938
+1,champion,Our new chemistry professor explains every concept so clearly.,POSITIVE,0.9979
+1,champion,The movie was so long and boring that I left halfway through.,NEGATIVE,0.9989
+1,champion,The street food near the station is cheap and delicious.,POSITIVE,0.9788
+1,champion,The registration website kept showing errors and I missed the deadline.,NEGATIVE,0.9981
